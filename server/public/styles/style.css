@@ -5,19 +5,28 @@ body {
 header {
   background-color: lightblue;
   text-align: center;
+  padding: 5px;
+  font-family: 'zapfino', sans-serif;
+  font-weight: normal;
 }
 main {
   text-align: center;
   background: azure;
+  font-family: sans-serif;
 }
 
 .wrap {
+  margin: 10px;
   text-align: center;
 }
 
+h2 {
+  font-family: 'zapfino', sans-serif;
+}
 a {
 
   display: inline;
+  margin-top: 10px;
   margin: 50px;
   text-align: center;
   text-decoration: none;
@@ -42,4 +51,6 @@ img {
 footer {
   background-color: lightblue;
   text-align: center;
+  padding: 5px;
+  font-family: 'zapfino', sans-serif;
 }
